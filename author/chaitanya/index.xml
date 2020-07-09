@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaitanya | Kotlin Hyderabad</title>
+    <link>http://kotlinhyderabad.github.in/author/chaitanya/</link>
+      <atom:link href="http://kotlinhyderabad.github.in/author/chaitanya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaitanya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://kotlinhyderabad.github.in/author/chaitanya/avatar_huf56d4469cfe1d8acdef380a7468a2c30_27045_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Chaitanya</title>
+      <link>http://kotlinhyderabad.github.in/author/chaitanya/</link>
+    </image>
+    
+  </channel>
+</rss>

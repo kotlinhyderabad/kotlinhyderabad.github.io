@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rajmahendra Hegde | Kotlin Hyderabad</title>
+    <link>http://kotlinhyderabad.github.in/author/rajmahendra-hegde/</link>
+      <atom:link href="http://kotlinhyderabad.github.in/author/rajmahendra-hegde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rajmahendra Hegde</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://kotlinhyderabad.github.in/author/rajmahendra-hegde/avatar_huac8188e670efb37d6a6c5b955733400f_10927_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Rajmahendra Hegde</title>
+      <link>http://kotlinhyderabad.github.in/author/rajmahendra-hegde/</link>
+    </image>
+    
+  </channel>
+</rss>
