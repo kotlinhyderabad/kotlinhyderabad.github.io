@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kotlinhyderabad.github.in/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kotlinhyderabad.github.in/talk/concise-android-codebase-using-kotlin/</loc>
     <lastmod>2020-06-18T13:18:00+00:00</lastmod>
   </url>
@@ -25,66 +10,6 @@
   <url>
     <loc>http://kotlinhyderabad.github.in/talk/</loc>
     <lastmod>2020-06-18T13:18:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/author/kotlin-hyderabad/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -108,88 +33,11 @@
   </url>
   
   <url>
-    <loc>http://kotlinhyderabad.github.in/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>http://kotlinhyderabad.github.in/authors/</loc>
   </url>
   
   <url>
     <loc>http://kotlinhyderabad.github.in/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kotlinhyderabad.github.in/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -197,7 +45,19 @@
   </url>
   
   <url>
+    <loc>http://kotlinhyderabad.github.in/author/kotlin-hyderabad/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kotlinhyderabad.github.in/publication_types/</loc>
+  </url>
+  
+  <url>
     <loc>http://kotlinhyderabad.github.in/author/rajmahendra-hegde/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kotlinhyderabad.github.in/tags/</loc>
   </url>
   
 </urlset>
